@@ -1,5 +1,7 @@
 # <<<<<<<<<<6장. 문자열 조작>>>>>>>>>>
 
+# https://waiting-numeric-fa9.notion.site/6-fa98a2ecc3d041b296864503cb0e0eff
+
 import collections
 
 str1 = "A man, a plan, a canal: Panama"

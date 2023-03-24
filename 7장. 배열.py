@@ -1,5 +1,7 @@
 # <<<<<<<<<<7장. 배열>>>>>>>>>>
 
+# https://waiting-numeric-fa9.notion.site/7-daae32df88bb46f282a191cfc14e40da
+
 
 nums = [2, 7, 11, 15]
 target = 9
